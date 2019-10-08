@@ -1,0 +1,12 @@
+
+
+#include <stdio.h>
+void main()
+{
+  printf("HelloWord!");
+  return 0;
+}
+单行注释
+  以"//"开头
+双行注释
+  以"/*"开头，"*/"结尾
